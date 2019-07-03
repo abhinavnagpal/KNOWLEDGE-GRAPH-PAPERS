@@ -10,6 +10,9 @@ LINK: https://www.jstage.jst.go.jp/article/transinf/E101.D/1/E101.D_2017SWP0006/
 LINK: https://dl.acm.org/citation.cfm?id=3016100.3016273
 
 4. A Review of Relational Machine Learning for Knowledge Graphs
-LINK: https://arxiv.org/pdf/1503.00759v1.pdf
+LINK: https://arxiv.org/abs/1503.00759
+
+5. Seq2RDF: An end-to-end application for deriving Triples from Natural Language Text
+LINK: https://arxiv.org/abs/1807.01763
 
 I am going to add more soon...
