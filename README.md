@@ -16,3 +16,7 @@ LINK: https://arxiv.org/abs/1503.00759
 LINK: https://arxiv.org/abs/1807.01763
 
 I am going to add more soon...
+
+# SOME RESOUCES
+
+1. graphcommons.com
