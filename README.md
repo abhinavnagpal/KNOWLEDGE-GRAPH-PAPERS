@@ -21,6 +21,8 @@ LINK: https://arxiv.org/abs/1807.01763
 1. Learning beyond datasets: Knowledge Graph Augmented Neural Networks for Natural language Processing
 LINK: https://aclweb.org/anthology/N18-1029
 
+2. Building and Using a Knowledge Graph to Combat Human Trafficking
+LINK: https://usc-isi-i2.github.io/papers/szekely15-iswc.pdf
 
 # SOME RESOUCES
 
