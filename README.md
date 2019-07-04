@@ -15,7 +15,11 @@ LINK: https://arxiv.org/abs/1503.00759
 5. Seq2RDF: An end-to-end application for deriving Triples from Natural Language Text
 LINK: https://arxiv.org/abs/1807.01763
 
-I am going to add more soon...
+
+# KG Application papers
+
+1. 
+
 
 # SOME RESOUCES
 
