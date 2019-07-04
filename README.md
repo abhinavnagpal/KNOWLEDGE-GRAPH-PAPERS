@@ -18,9 +18,12 @@ LINK: https://arxiv.org/abs/1807.01763
 
 # KG Application papers
 
-1. 
+1. Learning beyond datasets: Knowledge Graph Augmented Neural Networks for Natural language Processing
+LINK: https://aclweb.org/anthology/N18-1029
 
 
 # SOME RESOUCES
 
 1. graphcommons.com
+2. https://iswc2019.semanticweb.org 
+
