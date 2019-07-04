@@ -28,4 +28,6 @@ LINK: https://usc-isi-i2.github.io/papers/szekely15-iswc.pdf
 
 1. graphcommons.com
 2. https://iswc2019.semanticweb.org 
+3. https://dzone.com/articles/kgcns-machine-learning-over-knowledge-graphs-with
+4. http://www.dexa.org/mlkgraphs2019
 
